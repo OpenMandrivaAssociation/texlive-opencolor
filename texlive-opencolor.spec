@@ -1,6 +1,6 @@
 Name:		texlive-opencolor
 Version:	64403
-Release:	1
+Release:	2
 Summary:	Simple use of the Open Color colors
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/opencolor
